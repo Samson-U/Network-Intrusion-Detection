@@ -123,4 +123,4 @@ The results are exploratory benchmarks on the current dataset split. Further val
 
 ## Author
 
-Add your name, register number and department here before submission.
+Samson Joseph Eappen
