@@ -1,0 +1,28 @@
+{
+    "rows": 110573,
+    "columns": 73,
+    "classes": 6,
+    "missing_values": 0,
+    "infinite_values": 0,
+    "duplicate_rows": 15663,
+    "constant_columns": [],
+    "negative_value_columns": {
+        "Timestamp": 5859,
+        "Flow Duration": 5,
+        "Flow IAT Mean": 5,
+        "Flow IAT Max": 5,
+        "Flow IAT Min": 62,
+        "Fwd IAT Min": 5,
+        "Init_Win_bytes_forward": 11085,
+        "Init_Win_bytes_backward": 43322
+    },
+    "timestamp": {
+        "negative_timestamps": 5859,
+        "invalid_nonnegative_timestamps": 0,
+        "earliest_valid_timestamp": "2017-04-07 01:00:00",
+        "latest_valid_timestamp": "2017-07-07 12:58:00"
+    },
+    "repeated_feature_rows": 25161,
+    "conflicting_label_groups": 0,
+    "highly_correlated_pairs": 57
+}

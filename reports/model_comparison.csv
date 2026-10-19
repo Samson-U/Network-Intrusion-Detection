@@ -1,0 +1,4 @@
+Model,Accuracy,Macro Precision,Macro Recall,Macro F1,Training Time (seconds)
+Logistic Regression,0.9828,0.9825,0.9848,0.9835,4.59
+Decision Tree,0.9953,0.9957,0.996,0.9958,1.95
+Random Forest,0.9955,0.9958,0.9954,0.9956,3.07

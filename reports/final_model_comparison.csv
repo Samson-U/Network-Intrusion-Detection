@@ -1,0 +1,5 @@
+Model,Accuracy,F1-score
+Logistic Regression,0.9828,0.9835
+Decision Tree,0.9953,0.9958
+Random Forest,0.9955,0.9956
+Isolation Forest,0.7024385829977831,0.7677694996645599
