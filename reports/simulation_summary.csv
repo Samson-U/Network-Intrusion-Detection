@@ -1,0 +1,10 @@
+scenario,origin,records,rf_attack_predictions,anomaly_flags,mean_anomaly_score,rf_accuracy
+Replay: benign,Dataset replay,5,0,1,-0.047081926875564874,1.0
+Replay: ddos,Dataset replay,5,5,3,0.04177928518842888,1.0
+Replay: goldeneye,Dataset replay,5,5,3,0.05148293896690165,1.0
+Replay: hulk,Dataset replay,5,5,1,-0.030686063487445216,1.0
+Replay: slowhttptest,Dataset replay,5,5,5,0.12421551462172267,1.0
+Replay: slowloris,Dataset replay,5,5,5,0.07813742381747643,1.0
+Synthetic: High-volume pattern,Synthetic feature scenario,5,0,0,-0.032734484892468704,
+Synthetic: Large-packet pattern,Synthetic feature scenario,5,0,1,-0.029609287972483356,
+Synthetic: Slow-connection pattern,Synthetic feature scenario,5,0,1,-0.013769828409711304,

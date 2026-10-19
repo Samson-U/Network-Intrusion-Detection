@@ -1,0 +1,46 @@
+scenario,origin,source_label,rf_prediction,rf_correct,anomaly_score,anomaly_threshold,anomaly_flag
+Replay: benign,Dataset replay,benign,benign,True,-0.03470529246337539,0.024016216870712547,False
+Replay: benign,Dataset replay,benign,benign,True,-0.10722502849401006,0.024016216870712547,False
+Replay: benign,Dataset replay,benign,benign,True,-0.07149791335829042,0.024016216870712547,False
+Replay: benign,Dataset replay,benign,benign,True,-0.04986415858665655,0.024016216870712547,False
+Replay: benign,Dataset replay,benign,benign,True,0.027882758524508056,0.024016216870712547,True
+Replay: ddos,Dataset replay,ddos,ddos,True,0.0017033976194403833,0.024016216870712547,False
+Replay: ddos,Dataset replay,ddos,ddos,True,0.06771048842174876,0.024016216870712547,True
+Replay: ddos,Dataset replay,ddos,ddos,True,0.061037577731323345,0.024016216870712547,True
+Replay: ddos,Dataset replay,ddos,ddos,True,0.0677821272385063,0.024016216870712547,True
+Replay: ddos,Dataset replay,ddos,ddos,True,0.010662834931125631,0.024016216870712547,False
+Replay: goldeneye,Dataset replay,goldeneye,goldeneye,True,0.08386836824298993,0.024016216870712547,True
+Replay: goldeneye,Dataset replay,goldeneye,goldeneye,True,-0.0035764785500583263,0.024016216870712547,False
+Replay: goldeneye,Dataset replay,goldeneye,goldeneye,True,0.08262610225520828,0.024016216870712547,True
+Replay: goldeneye,Dataset replay,goldeneye,goldeneye,True,0.014578504812097437,0.024016216870712547,False
+Replay: goldeneye,Dataset replay,goldeneye,goldeneye,True,0.07991819807427092,0.024016216870712547,True
+Replay: hulk,Dataset replay,hulk,hulk,True,-0.0544569648041181,0.024016216870712547,False
+Replay: hulk,Dataset replay,hulk,hulk,True,0.0647940827362774,0.024016216870712547,True
+Replay: hulk,Dataset replay,hulk,hulk,True,-0.05569899503042758,0.024016216870712547,False
+Replay: hulk,Dataset replay,hulk,hulk,True,-0.0540342201694789,0.024016216870712547,False
+Replay: hulk,Dataset replay,hulk,hulk,True,-0.0540342201694789,0.024016216870712547,False
+Replay: slowhttptest,Dataset replay,slowhttptest,slowhttptest,True,0.15573321655102268,0.024016216870712547,True
+Replay: slowhttptest,Dataset replay,slowhttptest,slowhttptest,True,0.15573321655102268,0.024016216870712547,True
+Replay: slowhttptest,Dataset replay,slowhttptest,slowhttptest,True,0.15573321655102268,0.024016216870712547,True
+Replay: slowhttptest,Dataset replay,slowhttptest,slowhttptest,True,0.10557056258114428,0.024016216870712547,True
+Replay: slowhttptest,Dataset replay,slowhttptest,slowhttptest,True,0.04830736087440102,0.024016216870712547,True
+Replay: slowloris,Dataset replay,slowloris,slowloris,True,0.10767859759683218,0.024016216870712547,True
+Replay: slowloris,Dataset replay,slowloris,slowloris,True,0.10703179048966671,0.024016216870712547,True
+Replay: slowloris,Dataset replay,slowloris,slowloris,True,0.034149066702025554,0.024016216870712547,True
+Replay: slowloris,Dataset replay,slowloris,slowloris,True,0.034149066702025554,0.024016216870712547,True
+Replay: slowloris,Dataset replay,slowloris,slowloris,True,0.10767859759683218,0.024016216870712547,True
+Synthetic: High-volume pattern,Synthetic feature scenario,Unknown,benign,,-0.02874572881497911,0.024016216870712547,False
+Synthetic: High-volume pattern,Synthetic feature scenario,Unknown,benign,,-0.07165538842172958,0.024016216870712547,False
+Synthetic: High-volume pattern,Synthetic feature scenario,Unknown,benign,,-0.03882020400602154,0.024016216870712547,False
+Synthetic: High-volume pattern,Synthetic feature scenario,Unknown,benign,,-0.04768172695892803,0.024016216870712547,False
+Synthetic: High-volume pattern,Synthetic feature scenario,Unknown,benign,,0.023230623739314726,0.024016216870712547,False
+Synthetic: Slow-connection pattern,Synthetic feature scenario,Unknown,benign,,-0.018124325274032294,0.024016216870712547,False
+Synthetic: Slow-connection pattern,Synthetic feature scenario,Unknown,benign,,-0.054634625684968796,0.024016216870712547,False
+Synthetic: Slow-connection pattern,Synthetic feature scenario,Unknown,benign,,-0.014926439398954161,0.024016216870712547,False
+Synthetic: Slow-connection pattern,Synthetic feature scenario,Unknown,benign,,-0.016101466070697568,0.024016216870712547,False
+Synthetic: Slow-connection pattern,Synthetic feature scenario,Unknown,benign,,0.034937714380096296,0.024016216870712547,True
+Synthetic: Large-packet pattern,Synthetic feature scenario,Unknown,benign,,-0.027874334263791323,0.024016216870712547,False
+Synthetic: Large-packet pattern,Synthetic feature scenario,Unknown,benign,,-0.07511644464798234,0.024016216870712547,False
+Synthetic: Large-packet pattern,Synthetic feature scenario,Unknown,benign,,-0.03928181452739499,0.024016216870712547,False
+Synthetic: Large-packet pattern,Synthetic feature scenario,Unknown,benign,,-0.038962505771261424,0.024016216870712547,False
+Synthetic: Large-packet pattern,Synthetic feature scenario,Unknown,benign,,0.033188659348013294,0.024016216870712547,True
